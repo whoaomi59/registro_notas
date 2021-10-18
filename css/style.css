@@ -3,7 +3,7 @@
     padding:0;
 }
 body{
-    background-image: url('/css/img/diseno-grafico.jpg');
+    background-image: url("img/diseno-grafico.jpg");
     width: 100%;
     height: 80vh;
     background-position: center center;
